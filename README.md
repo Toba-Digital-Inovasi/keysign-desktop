@@ -3,24 +3,12 @@ Welcome to the `Toba-Digital-Inovasi/keysign-desktop` GitHub repository. This re
 
 ## Download Link
 
-### CLI Application Insstaller
-| Operating System | Instalation Link                         |
-|------------------|------------------------------------------|
-| Windows          | - | 
-| Mac              | - |
-| Linux            | - |
-
 ### Desktop Portable Application
 | Operating System | ZIP Link                                 |
 |------------------|------------------------------------------|
-| Windows          | - | 
-| Mac              | - |
-| Linux            | - |
-
-### Java Application
-| Platform           | Binary Link                              |
-|--------------------|------------------------------------------|
-| Java (min jdk 1.8) | - |
+| Windows          | [keysign-desktop-win32-x64.zip](https://github.com/Toba-Digital-Inovasi/keysign-desktop/releases/download/v1.0.0/keysign-desktop-win32-x64.zip) | 
+| Mac              | [keysign-desktop-darwin-x64.zip](https://github.com/Toba-Digital-Inovasi/keysign-desktop/releases/download/v1.0.0/keysign-desktop-darwin-x64.zip) | 
+| Linux            | [keysign-desktop-linux-x64.zip](https://github.com/Toba-Digital-Inovasi/keysign-desktop/releases/download/v1.0.0/keysign-desktop-linux-x64.zip) | 
 
 ## Links
 
